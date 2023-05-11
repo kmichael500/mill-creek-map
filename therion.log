@@ -95,7 +95,7 @@ S   499.69 scrap_1@survey_1 ()
 writing output/DA14 Mill Creek Cave Plan.pdf ...
 processing projection none ... done
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  11 MAY 2023 15:49
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  11 MAY 2023 18:55
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -109,7 +109,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [45] [46] [47] [48] [49] [50] [51] [52] [53] )
  
 Here is how much of MetaPost's memory you used:
- 18208 strings using 410293 characters
+ 18208 strings using 410292 characters
  4330656 bytes of node memory
  1878 symbolic tokens
  9i,82n,20p,665b,5f stack positions out of 16i,98n,25p,760b,6f
@@ -120,7 +120,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  11 MAY 2023 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  11 MAY 2023 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -163,7 +163,7 @@ S   499.69 scrap_1@survey_1 ()
 ########## end of export maps & scraps selection ###############
 writing output/DA14 Mill Creek Cave Plan Plan.svg ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  11 MAY 2023 15:49
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  11 MAY 2023 18:55
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -177,7 +177,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [45] [46] [47] [48] [49] [50] [51] [52] [53] )
  
 Here is how much of MetaPost's memory you used:
- 18208 strings using 410293 characters
+ 18208 strings using 410292 characters
  4330656 bytes of node memory
  1878 symbolic tokens
  9i,82n,20p,665b,5f stack positions out of 16i,98n,25p,760b,6f
@@ -197,7 +197,7 @@ S   499.69 scrap_1@survey_1 ()
 ########## end of export maps & scraps selection ###############
 writing output/DA14 Mill Creek Cave Plan Atlas.pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  11 MAY 2023 15:49
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  11 MAY 2023 18:55
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -211,7 +211,7 @@ Preloading the plain mem file, version 1.005) ) (./data.mp
 [45] [46] [47] [48] [49] [50] [51] [52] [53] )
  
 Here is how much of MetaPost's memory you used:
- 18208 strings using 410293 characters
+ 18208 strings using 410292 characters
  4330656 bytes of node memory
  1878 symbolic tokens
  9i,82n,20p,665b,5f stack positions out of 16i,98n,25p,760b,6f
@@ -222,7 +222,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making atlas ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  11 MAY 2023 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  11 MAY 2023 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.

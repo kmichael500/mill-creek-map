@@ -1,0 +1,14 @@
+set xth(ctrl,cp,datlist) {}
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 201.98m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.70m (from A9@survey_1 at 500.29m to A8@survey_1 at 498.59m)\nnorth-south range: 51.88m (from A1@survey_1 at 3991610.35m to A19@survey_1 at 3991558.47m)\neast-west range: 103.15m (from A1@survey_1 at 528295.55m to A14@survey_1 at 528192.40m)\nnumber of shots: 389\nnumber of stations: 390"
+xth_cp_data_tree_insert 24 1 1 survey_1 survey_1 "DA14 Mill Creek Cave" "DA14 Mill Creek Cave" "length: 201.98m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.70m (from A9@survey_1 at 500.29m to A8@survey_1 at 498.59m)\nnorth-south range: 51.88m (from A1@survey_1 at 3991610.35m to A19@survey_1 at 3991558.47m)\neast-west range: 103.15m (from A1@survey_1 at 528295.55m to A14@survey_1 at 528192.40m)\nnumber of shots: 389\nnumber of stations: 390"
+xth_cp_data_tree_create
+set xth(ctrl,cp,maplist) {}
+xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
+xth_cp_map_tree_insert projection 0 p2 {} 0 none {} {} {}
+xth_cp_map_tree_insert map 0 686X1 p1 1 map_1 map_1@survey_1 "" ""
+xth_cp_map_tree_insert map 1 687X1 686X1 2 low low@survey_1 "" ""
+xth_cp_map_tree_create
+xth_cp_comp_stat 202 9
+set xth(th_exit_state) 1
+set xth(th_exit_number) 1683849333
+
