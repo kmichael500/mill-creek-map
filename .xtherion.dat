@@ -1,14 +1,17 @@
 set xth(ctrl,cp,datlist) {}
-xth_cp_data_tree_insert 1 {} 0   "" "" "length: 201.98m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.70m (from A9@survey_1 at 500.29m to A8@survey_1 at 498.59m)\nnorth-south range: 51.88m (from A1@survey_1 at 3991610.35m to A19@survey_1 at 3991558.47m)\neast-west range: 103.15m (from A1@survey_1 at 528295.55m to A14@survey_1 at 528192.40m)\nnumber of shots: 389\nnumber of stations: 390"
-xth_cp_data_tree_insert 24 1 1 survey_1 survey_1 "DA14 Mill Creek Cave" "DA14 Mill Creek Cave" "length: 201.98m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.70m (from A9@survey_1 at 500.29m to A8@survey_1 at 498.59m)\nnorth-south range: 51.88m (from A1@survey_1 at 3991610.35m to A19@survey_1 at 3991558.47m)\neast-west range: 103.15m (from A1@survey_1 at 528295.55m to A14@survey_1 at 528192.40m)\nnumber of shots: 389\nnumber of stations: 390"
+xth_cp_data_tree_insert 1 {} 0   "" "" "length: 364.51m (surface 0.00m, duplicated 0.00m)\nvertical range: 3.06m (from A35@trip_2_survey.survey at 162.28m to A8@trip_1_survey.survey at 159.22m)\nnorth-south range: 143.62m (from A1@trip_1_survey.survey at 3991610.35m to A31@trip_2_survey.survey at 3991466.73m)\neast-west range: 174.15m (from A1@trip_1_survey.survey at 528295.55m to A36@trip_2_survey.survey at 528121.40m)\nnumber of shots: 704\nnumber of stations: 706"
+xth_cp_data_tree_insert 38 1 1 survey survey "DA14 Mill Creek Cave" "DA14 Mill Creek Cave" "length: 364.51m (surface 0.00m, duplicated 0.00m)\nvertical range: 3.06m (from A35@trip_2_survey.survey at 162.28m to A8@trip_1_survey.survey at 159.22m)\nnorth-south range: 143.62m (from A1@trip_1_survey.survey at 3991610.35m to A31@trip_2_survey.survey at 3991466.73m)\neast-west range: 174.15m (from A1@trip_1_survey.survey at 528295.55m to A36@trip_2_survey.survey at 528121.40m)\nnumber of shots: 704\nnumber of stations: 706"
+xth_cp_data_tree_insert 40 38 2 trip_1_survey trip_1_survey.survey "" "" "length: 201.98m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.70m (from A9@trip_1_survey.survey at 160.92m to A8@trip_1_survey.survey at 159.22m)\nnorth-south range: 51.88m (from A1@trip_1_survey.survey at 3991610.35m to A19@trip_1_survey.survey at 3991558.47m)\neast-west range: 103.15m (from A1@trip_1_survey.survey at 528295.55m to A14@trip_1_survey.survey at 528192.40m)\nnumber of shots: 389\nnumber of stations: 389"
+xth_cp_data_tree_insert 723 38 2 trip_2_survey trip_2_survey.survey "" "" "length: 162.53m (surface 0.00m, duplicated 0.00m)\nvertical range: 1.94m (from A35@trip_2_survey.survey at 162.28m to A21@trip_2_survey.survey at 160.34m)\nnorth-south range: 91.74m (from A19@trip_2_survey.survey at 3991558.47m to A31@trip_2_survey.survey at 3991466.73m)\neast-west range: 85.94m (from A22@trip_2_survey.survey at 528207.34m to A36@trip_2_survey.survey at 528121.40m)\nnumber of shots: 315\nnumber of stations: 316"
 xth_cp_data_tree_create
 set xth(ctrl,cp,maplist) {}
 xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
 xth_cp_map_tree_insert projection 0 p2 {} 0 none {} {} {}
-xth_cp_map_tree_insert map 0 686X1 p1 1 map_1 map_1@survey_1 "" ""
-xth_cp_map_tree_insert map 1 687X1 686X1 2 low low@survey_1 "" ""
+xth_cp_map_tree_insert map 0 1108X1 p1 1 map_1 map_1@survey "" ""
+xth_cp_map_tree_insert map 1 720X1 1108X1 2 trip_1_map trip_1_map@trip_1_survey.survey "" ""
+xth_cp_map_tree_insert map 1 1105X1 1108X1 2 trip_2_map trip_2_map@trip_2_survey.survey "" ""
 xth_cp_map_tree_create
-xth_cp_comp_stat 202 9
+xth_cp_comp_stat 365 18
 set xth(th_exit_state) 1
-set xth(th_exit_number) 1683849333
+set xth(th_exit_number) 1684937464
 
