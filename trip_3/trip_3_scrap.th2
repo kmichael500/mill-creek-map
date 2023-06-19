@@ -1,5 +1,5 @@
 encoding  utf-8
-##XTHERION## xth_me_area_adjust -3529.0 -367.5 357.0 2001.5
+##XTHERION## xth_me_area_adjust -3529.0 -397.5 391.0 2001.5
 ##XTHERION## xth_me_area_zoom_to 200
 
 # 2023.06.14 created by TopoDroid v. 6.1.43
@@ -20,7 +20,7 @@ line wall -reverse on
   smooth off
 endline
 
-line pit
+line pit -id l4-57--98
   36.21 -90.55
   51.01 -91.28 63.21 -103.84 74.7 -111.93
   76.24 -113.01 77.91 -113.89 79.46 -114.95
@@ -30,7 +30,7 @@ line pit
   smooth off
 endline
 
-line pit
+line pit -id l5-197--160
   212.37 -171.98
   193.04 -159.53 180.42 -138.2 163.27 -123.73
   152.12 -114.33 137.76 -108.79 126.61 -99.85
@@ -120,7 +120,7 @@ line ceiling-step
   smooth off
 endline
 
-line border -visibility off
+line border -id l432-6--46 -visibility off
   36.21 -90.55
   34.93 -89.58 25.42 -77.81 24.35 -76.61
   23.21 -75.35 22.25 -73.93 21.31 -72.51
@@ -143,7 +143,7 @@ point -52.98 30.65 clay
 
 point -93.30 60.69 clay
 
-line border -visibility off
+line border -id l433-41--10 -visibility off
   40.27 -16.16
   42.51 -8.42 35.96 1.15 35.32 9.32
   33.48 32.67 28.34 57.48 17.28 78.53
@@ -152,7 +152,7 @@ line border -visibility off
   -6.84 106.02 -31.63 139.36 -40.0 140.0
 endline
 
-line border -visibility off
+line border -id l436--92-110 -visibility off
   -111.0 153.5
   -108.4 146.22 -73.15 69.34 -67.3 64.94
   -61.31 60.43 -54.58 56.62 -48.42 52.42
@@ -257,12 +257,12 @@ line ceiling-step
   smooth off
 endline
 
-line border -visibility off
+line border -id l443--438-248 -visibility off
   -403.67 285.28
   -415.47 277.98 -449.29 230.85 -469.0 216.48
 endline
 
-line border -visibility off
+line border -id l450--51-164 -visibility off
   -485.2 317.39
   -481.81 329.96 -456.31 342.43 -445.1 347.1
   -413.73 360.16 -376.67 367.2 -342.92 367.67
@@ -277,7 +277,7 @@ line border -visibility off
   -77.79 202.06 -48.94 164.75 -40.0 140.0
 endline
 
-line border -visibility off
+line border -id l438--378-292 -visibility off
   -111.0 153.5
   -123.17 165.51 -142.77 179.21 -153.25 193.64
   -156.81 198.54 -158.6 204.97 -161.61 210.18
@@ -341,7 +341,7 @@ line wall
   smooth off
 endline
 
-line pit
+line pit -id l40--496-296
   -485.2 317.39
   -491.74 302.08 -503.6 289.29 -512.4 275.65
   -518.35 266.45 -521.25 254.6 -529.22 247.46
@@ -358,7 +358,7 @@ line pit
   smooth off
 endline
 
-line pit
+line pit -id l41--572-120
   -585.67 75.57
   -584.87 93.94 -577.47 116.14 -563.13 128.71
   -556.99 134.1 -547.34 135.45 -541.47 141.5
@@ -475,7 +475,7 @@ line wall
   smooth off
 endline
 
-line pit
+line pit -id l59--718-92
   -696.06 101.51
   -714.75 92.67 -727.57 90.3 -737.91 83.92
   -744.4 79.91 -748.86 72.22 -756.03 68.94
@@ -485,7 +485,7 @@ line pit
   smooth off
 endline
 
-line pit
+line pit -id l60--1204-146
   -1219.12 154.69
   -1193.68 140.42 -1175.38 115.07 -1153.06 97.04
   -1150.24 94.77 -1147.41 92.25 -1144.0 91.03
@@ -538,7 +538,7 @@ point -906.92 -110.12 gradient -orientation 30.45
 
 point -1109.59 29.75 gradient -orientation 34.83
 
-line border -visibility off
+line border -id l451--718--208 -visibility off
   -585.67 75.57
   -582.5 23.0
   -600.0 -81.5
@@ -724,7 +724,7 @@ line ceiling-step
   smooth off
 endline
 
-line border -visibility off
+line border -id l454--920-81 -visibility off
   -901.54 56.18
   -933.0 97.5
   -961.0 203.0
@@ -732,7 +732,7 @@ line border -visibility off
   -1135.5 230.5
 endline
 
-line border -visibility off
+line border -id l455--1510-259 -visibility off
   -1219.12 154.69
   -1247.81 159.63 -1254.92 194.21 -1282.56 202.19
   -1284.44 202.73 -1286.45 202.57 -1288.39 202.79
@@ -745,7 +745,7 @@ line border -visibility off
   -1506.52 257.98 -1518.09 259.53 -1521.35 262.94
 endline
 
-line border -visibility off
+line border -id l458--1166-226 -visibility off
   -1495.3 303.38
   -1487.28 303.16 -1475.09 294.6 -1467.16 292.11
   -1455.72 288.53 -1442.89 287.79 -1431.13 284.7
@@ -829,7 +829,7 @@ line ceiling-step
   smooth off
 endline
 
-line pit
+line pit -id l113--1627-369
   -1402.5 333.5
   -1431.69 336.44 -1466.72 342.34 -1495.0 349.91
   -1497.54 350.59 -1499.87 351.92 -1502.21 353.11
@@ -851,14 +851,14 @@ line pit
   smooth off
 endline
 
-line border -visibility off
+line border -id l461--1510-312 -visibility off
   -1495.3 303.38
   -1508.11 310.57 -1541.78 326.34 -1556.23 329.42
   -1564.02 331.08 -1572.63 329.05 -1580.32 331.14
   -1591.23 334.11 -1603.22 354.68 -1612.82 360.15
 endline
 
-line border -visibility off
+line border -id l464--1750-400 -visibility off
   -1769.5 438.0
   -1762.1 421.56 -1755.6 406.62 -1746.67 393.86
   -1745.18 391.73 -1743.75 389.55 -1742.49 387.28
@@ -941,7 +941,7 @@ line wall -reverse on
   smooth off
 endline
 
-line pit
+line pit -id l132--1740-506
   -1728.7 489.6
   -1736.88 504.84 -1748.99 513.27 -1757.87 524.08
   -1763.35 530.76 -1768.76 537.83 -1773.94 544.74
@@ -963,7 +963,7 @@ endline
 
 point -1893.13 573.04 flowstone
 
-line border -visibility off
+line border -id l465--1898-642 -visibility off
   -1769.5 438.0
   -1778.25 452.18 -1788.23 481.13 -1796.7 495.12
   -1798.33 497.82 -1800.27 500.33 -1801.95 503.0
@@ -1008,7 +1008,7 @@ point -1760.04 364.85 pebbles
 
 point -1833.39 494.95 pebbles
 
-line pit
+line pit -id l145--1974-742
   -2019.59 758.05
   -2017.43 758.17 -2015.26 758.68 -2013.11 758.4
   -2011.11 758.14 -2009.17 757.39 -2007.38 756.46
@@ -1278,7 +1278,7 @@ line ceiling-step
   smooth off
 endline
 
-line border -visibility off
+line border -id l471--1944-764 -visibility off
   -1901.8 732.07
   -1902.89 733.2 -1920.22 747.6 -1921.5 748.5
   -1922.8 749.4 -1931.15 755.87 -1932.6 756.47
@@ -1295,7 +1295,7 @@ line border -visibility off
   -2151.2 862.23 -2182.18 871.72 -2183.61 871.72
 endline
 
-line border -visibility off
+line border -id l474--2176-826 -visibility off
   -2190.78 837.07
   -2190.64 835.49 -2184.23 834.0 -2183.0 833.0
   -2177.5 828.5 -2176.0 826.74 -2175.18 825.31
@@ -1651,7 +1651,7 @@ line pit
   smooth off
 endline
 
-line border -visibility off
+line border -id l483--2550-1002 -visibility off
   -2190.78 837.07
   -2209.34 845.66 -2230.75 847.64 -2249.83 853.83
   -2266.9 859.36 -2282.48 871.49 -2300.43 875.65
@@ -1672,7 +1672,7 @@ line border -visibility off
   -2528.63 983.79 -2552.36 1004.02 -2559.0 1009.0
 endline
 
-line border -visibility off
+line border -id l482--2191-878 -visibility off
   -2524.5 1034.5
   -2512.0 1025.0 -2473.0 1010.0 -2464.81 1005.67
   -2449.24 997.44 -2432.23 990.38 -2418.15 979.86
@@ -1699,7 +1699,7 @@ point -2326.65 906.11 clay
 
 point -2638.48 1031.62 clay
 
-line pit
+line pit -id l220--2800-1260
   -2772.46 1259.37
   -2778.11 1263.08 -2780.35 1264.66 -2782.93 1265.25
   -2794.82 1268.0 -2806.82 1255.16 -2811.58 1245.52
@@ -1746,7 +1746,7 @@ line ceiling-step
   smooth off
 endline
 
-line border -visibility off
+line border -id l488--2782-1190 -visibility off
   -2811.58 1245.52
   -2804.08 1225.52 -2789.78 1199.85 -2778.11 1182.63
   -2777.03 1181.03 -2775.83 1179.49 -2774.54 1178.05
@@ -1755,7 +1755,7 @@ line border -visibility off
   -2624.82 1060.44 -2560.74 1010.26 -2559.0 1009.0
 endline
 
-line border -visibility off
+line border -id l485--2538-1047 -visibility off
   -2524.5 1034.5
   -2527.76 1041.53 -2562.0 1064.36 -2566.24 1070.97
   -2574.77 1084.27 -2578.62 1101.86 -2590.09 1113.84
@@ -1772,7 +1772,40 @@ line border -visibility off
   smooth off
 endline
 
-line border -visibility off
+area water
+  l5-197--160
+  l433-41--10
+  l450--51-164
+  l40--496-296
+  l59--718-92
+  l454--920-81
+  l458--1166-226
+  l461--1510-312
+  l113--1627-369
+  l132--1740-506
+  l471--1944-764
+  l482--2191-878
+  l485--2538-1047
+  l220--2800-1260
+  l488--2782-1190
+  l483--2550-1002
+  l474--2176-826
+  l145--1974-742
+  l465--1898-642
+  l464--1750-400
+  l455--1510-259
+  l60--1204-146
+  l451--718--208
+  l41--572-120
+  l443--438-248
+  l438--378-292
+  l436--92-110
+  l432-6--46
+  l4-57--98
+  l489-176--235
+endarea
+
+line border -id l489-176--235 -visibility off
   212.37 -171.98
   261.0 -225.0
   217.0 -267.5

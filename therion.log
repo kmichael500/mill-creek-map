@@ -98,7 +98,7 @@ selecting export objects ... done
 writing output/lineplots/DA14 Mill Creek Cave Model.3d ... done
 writing output/lineplots/shapefiles ... 
 processing projection plan ... done
-average distortion: 0.12%
+average distortion: 0.13%
 .
 therion: warning -- trip_1_scrap@trip_1_survey.survey -- multiple scrap outer outlines not supported yet
 ..
@@ -122,7 +122,7 @@ S   162.62 trip_3_scrap@trip_3_survey.survey ()
 writing output/maps/final/DA14 Mill Creek Cave Plan.pdf ...
 processing projection none ... done
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 11:59
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:04
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -146,7 +146,7 @@ urvey] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
 [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] )
  
 Here is how much of MetaPost's memory you used:
- 37189 strings using 827908 characters
+ 37202 strings using 828827 characters
  4346944 bytes of node memory
  1881 symbolic tokens
  8i,82n,16p,770b,5f stack positions out of 16i,98n,20p,950b,6f
@@ -157,7 +157,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -181,7 +181,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
 pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb>
-Output written on data.pdf (1 page, 468437 bytes).
+Output written on data.pdf (1 page, 473358 bytes).
 PDF statistics:
  352 PDF objects out of 1000 (max. 8388607)
  179 compressed objects within 2 object streams
@@ -204,7 +204,7 @@ S   162.62 trip_3_scrap@trip_3_survey.survey ()
 ########## end of export maps & scraps selection ###############
 writing output/maps/final/DA14 Mill Creek Cave Plan (No Labels).pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:00
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:04
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -228,7 +228,7 @@ urvey] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
 [92] [93] [94] [95] [96] [97] [98] [99] [100] )
  
 Here is how much of MetaPost's memory you used:
- 36491 strings using 805934 characters
+ 36504 strings using 806740 characters
  4346944 bytes of node memory
  1877 symbolic tokens
  8i,82n,13p,312b,5f stack positions out of 16i,98n,16p,312b,6f
@@ -239,7 +239,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -263,7 +263,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
 pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb>
-Output written on data.pdf (1 page, 465106 bytes).
+Output written on data.pdf (1 page, 470037 bytes).
 PDF statistics:
  346 PDF objects out of 1000 (max. 8388607)
  176 compressed objects within 2 object streams
@@ -286,7 +286,7 @@ S   162.62 trip_3_scrap@trip_3_survey.survey ()
 ########## end of export maps & scraps selection ###############
 writing output/maps/final/DA14 Mill Creek Cave Plan (No Labels) (Altitude).pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:00
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:04
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -312,7 +312,7 @@ urvey] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
 [98] [99] [100] [101] )
  
 Here is how much of MetaPost's memory you used:
- 36661 strings using 809965 characters
+ 36674 strings using 810771 characters
  4346944 bytes of node memory
  1878 symbolic tokens
  10i,82n,19p,460b,5f stack positions out of 16i,98n,22p,487b,6f
@@ -323,7 +323,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,7 +347,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
 .pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
 .pfb>
-Output written on data.pdf (1 page, 471593 bytes).
+Output written on data.pdf (1 page, 476536 bytes).
 PDF statistics:
  366 PDF objects out of 1000 (max. 8388607)
  189 compressed objects within 2 object streams
@@ -370,7 +370,7 @@ S   162.62 trip_3_scrap@trip_3_survey.survey ()
 ########## end of export maps & scraps selection ###############
 writing output/maps/final/DA14 Mill Creek Cave Plan (Altitude).pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:00
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:04
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -396,7 +396,7 @@ urvey] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
 [97] [98] [99] [100] [101] [102] [103] [104] )
  
 Here is how much of MetaPost's memory you used:
- 37358 strings using 831937 characters
+ 37371 strings using 832856 characters
  4346944 bytes of node memory
  1882 symbolic tokens
  10i,82n,19p,770b,5f stack positions out of 16i,98n,20p,950b,6f
@@ -407,7 +407,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -431,7 +431,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
 .pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
 .pfb>
-Output written on data.pdf (1 page, 474909 bytes).
+Output written on data.pdf (1 page, 479840 bytes).
 PDF statistics:
  372 PDF objects out of 1000 (max. 8388607)
  192 compressed objects within 2 object streams
@@ -454,7 +454,7 @@ S   162.62 trip_3_scrap@trip_3_survey.survey ()
 ########## end of export maps & scraps selection ###############
 writing output/maps/working/DA14 Mill Creek Cave Plan (Working).pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:00
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:04
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -478,8 +478,8 @@ urvey] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
 [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] )
  
 Here is how much of MetaPost's memory you used:
- 43648 strings using 1042363 characters
- 4346880 bytes of node memory
+ 43666 strings using 1043920 characters
+ 4347080 bytes of node memory
  1882 symbolic tokens
  9i,82n,20p,770b,5f stack positions out of 16i,98n,25p,950b,6f
 117 output files written: data-patt.1 .. data.103
@@ -489,7 +489,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -513,7 +513,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.
 pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.
 pfb>
-Output written on data.pdf (1 page, 483373 bytes).
+Output written on data.pdf (1 page, 488286 bytes).
 PDF statistics:
  352 PDF objects out of 1000 (max. 8388607)
  179 compressed objects within 2 object streams
@@ -536,7 +536,7 @@ S   162.62 trip_3_scrap@trip_3_survey.survey ()
 ########## end of export maps & scraps selection ###############
 writing output/maps/working/DA14 Mill Creek Cave Plan (Working Altitude).pdf ...
 ####################### metapost log file ########################
-This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:00
+This is MetaPost, version 2.02 (TeX Live 2022) (kpathsea version 6.3.4)  19 JUN 2023 12:04
 **data.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/mpost.mp
 (/usr/local/texlive/2022/texmf-dist/metapost/base/plain.mp
@@ -562,8 +562,8 @@ urvey] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
 [97] [98] [99] [100] [101] [102] [103] [104] )
  
 Here is how much of MetaPost's memory you used:
- 43817 strings using 1046392 characters
- 4346880 bytes of node memory
+ 43835 strings using 1047949 characters
+ 4347080 bytes of node memory
  1883 symbolic tokens
  10i,82n,20p,770b,5f stack positions out of 16i,98n,25p,950b,6f
 118 output files written: data-patt.1 .. data.104
@@ -573,7 +573,7 @@ Here is how much of MetaPost's memory you used:
 converting scraps ... done
 making map ... done
 ######################## pdftex log file #########################
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdftex 2022.9.8)  19 JUN 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,7 +597,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10
 .pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10
 .pfb>
-Output written on data.pdf (1 page, 489640 bytes).
+Output written on data.pdf (1 page, 494562 bytes).
 PDF statistics:
  372 PDF objects out of 1000 (max. 8388607)
  192 compressed objects within 2 object streams
@@ -609,7 +609,7 @@ PDF statistics:
 done
 writing output/leads/DA14 Mill Creek Cave Leads.html ... done
 writing xtherion file ... done
-compilation time: 8 sec
+compilation time: 9 sec
 
 
 ######################### loop errors ##########################

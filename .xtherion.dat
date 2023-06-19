@@ -8,12 +8,12 @@ xth_cp_data_tree_create
 set xth(ctrl,cp,maplist) {}
 xth_cp_map_tree_insert projection 0 p1 {} 0 plan {} {} {}
 xth_cp_map_tree_insert projection 0 p2 {} 0 none {} {} {}
-xth_cp_map_tree_insert map 0 1549X1 p1 1 map_1 map_1@survey "" ""
-xth_cp_map_tree_insert map 1 721X1 1549X1 2 trip_1_map trip_1_map@trip_1_survey.survey "" ""
-xth_cp_map_tree_insert map 1 1111X1 1549X1 2 trip_2_map trip_2_map@trip_2_survey.survey "" ""
-xth_cp_map_tree_insert map 1 1546X1 1549X1 2 trip_3_map trip_3_map@trip_3_survey.survey "" ""
+xth_cp_map_tree_insert map 0 1551X1 p1 1 map_1 map_1@survey "" ""
+xth_cp_map_tree_insert map 1 721X1 1551X1 2 trip_1_map trip_1_map@trip_1_survey.survey "" ""
+xth_cp_map_tree_insert map 1 1111X1 1551X1 2 trip_2_map trip_2_map@trip_2_survey.survey "" ""
+xth_cp_map_tree_insert map 1 1548X1 1551X1 2 trip_3_map trip_3_map@trip_3_survey.survey "" ""
 xth_cp_map_tree_create
 xth_cp_comp_stat 500 24
 set xth(th_exit_state) 1
-set xth(th_exit_number) 1687194007
+set xth(th_exit_number) 1687194299
 
