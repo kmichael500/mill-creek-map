@@ -7,7 +7,7 @@ survey trip_2_survey
 	centerline
 		date 2023.05.23
 		team "Dylan Morris"
-		team "Michael ketzner"
+		team "Michael Ketzner"
 		units length feet
 		units compass clino degrees
 		data normal from to length compass clino
