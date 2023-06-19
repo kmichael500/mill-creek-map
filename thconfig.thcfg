@@ -10,8 +10,9 @@ input "layout.th"
 
 #export
 export model -fmt survex -o "output/lineplots/DA14 Mill Creek Cave Model.3d" -enable walls
-export model -fmt survex -o "output/lineplots/DA14 Mill Creek Cave Model.ersi" -enable walls
-export model -fmt survex -o "output/lineplots/DA14 Mill Creek Cave Model.plt" -enable walls
+export model -fmt esri -o "output/lineplots/shapefiles" -enable walls -disable splay-shots -enable centerline
+export model -fmt compass -o "output/lineplots/DA14 Mill Creek Cave Model.plt" -enable walls
+export model -fmt survex -o "output/lineplots/DA14 Mill Creek Cave Model.sql" -enable walls
 
 export model -o "output/lineplots/DA14 Mill Creek Cave Model.lox" -enable walls
 

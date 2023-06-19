@@ -3,29 +3,32 @@
 survey survey -title "DA14 Mill Creek Cave"
 	input "./trip_1/trip_1_survey.th"
 	input "./trip_2/trip_2_survey.th"
+	input "./trip_3/trip_3_survey.th"
 	
 	map map_1
 		trip_1_map@trip_1_survey
 		trip_2_map@trip_2_survey
+		trip_3_map@trip_3_survey
+		
 	endmap
 	
 	centerline
-		date 2023.05.10
-		team "Dylan Morris"
-		team "Michael Ketzner"
 		units length feet
 		units compass clino degrees
 		data normal from to length compass clino
 		
 		station ent "main ent." entrance
-		cs long-lat
-		fix ent -86:41:8.8008 36:4:7.2012 160.63
+		
+		cs lat-long
+		fix ent 36:4:7.2012 -86:41:8.8008 160.63
 		
 		equate ent A1@trip_1_survey
 		equate A19@trip_1_survey A19@trip_2_survey
+		equate A36@trip_2_survey A36@trip_3_survey
 	endcenterline
 	
-	# join trip_1_scrap@trip_1_survey trip_2_scrap@trip_2_survey
+	join trip_1_scrap@trip_1_survey trip_2_scrap@trip_2_survey
+	join trip_2_scrap@trip_2_survey trip_3_scrap@trip_3_survey
 	
 	
 endsurvey
